@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "cialenco/AquaSctoch",
+    "data-repo": "cialenco/AquaStoch",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
