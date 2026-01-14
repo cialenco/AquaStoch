@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Cialenco featured on Illinois Tech Reseach Magazin
+date: 2025-12-07 
 inline: false
 related_posts: false
 ---
