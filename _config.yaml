@@ -1,7 +1,0 @@
-title: Groundwater Rights Research
-description: Research site on groundwater rights markets
-baseurl: "" # set if deploying to subfolder later
-url: "https://yourusername.github.io"
-remote_theme: kitian616/TeXt-theme
-plugins:
-  - jekyll-remote-theme
