@@ -203,7 +203,14 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Dark mode – override global background (al-folio) */
+// /* Dark mode – override global background (al-folio) */
+// html.dark {
+//   --global-bg-color: #121212;
+// }
+
 html.dark {
-  --global-bg-color: #121212;
+  .page-header,
+  .header-bar {
+    background-color: var(--global-bg-color) !important;
+  }
 }
