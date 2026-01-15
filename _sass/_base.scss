@@ -246,12 +246,32 @@ ul.task-list input[type="checkbox"] {
 
 // Navbar customization
 
+// .navbar {
+//   box-shadow: none;
+//   border-bottom: 1px solid var(--global-divider-color);
+//   background-color: var(--global-bg-color);
+//   opacity: 0.95;
+// }
+
+
 .navbar {
-  box-shadow: none;
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.9);
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
-  opacity: 0.95;
+  box-shadow: none;
+  // box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  // 
+  .navbar-nav .nav-item .nav-link {
+    transition: all 0.3s ease;
+    
+    &:hover {
+      transform: translateY(-2px);
+      color: var(--global-theme-color);
+    }
+  }
 }
+
+
 
 .navbar .dropdown-menu,
 .btn-group.dropdown .dropdown-menu {
@@ -270,6 +290,13 @@ ul.task-list input[type="checkbox"] {
     border-top: 1px solid var(--global-divider-color) !important;
   }
 }
+
+
+
+
+
+
+
 
 .dropdown-item {
   color: var(--global-text-color);
