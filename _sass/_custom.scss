@@ -58,6 +58,35 @@ a {
   }
 }
 
+// /* Navigation - lighter, cleaner look */
+// .navbar {
+//   background-color: rgba(250, 251, 252, 0.95);
+//   backdrop-filter: blur(10px);
+//   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  
+//   .navbar-brand {
+//     font-weight: normal;  // Regular weight
+//   }
+  
+//   .navbar-nav .nav-item .nav-link {
+//     font-weight: normal;  // Regular weight
+//     letter-spacing: 0;
+//     padding: 0.5rem 1rem;
+//     margin: 0 0.25rem;
+//     border-radius: 6px;
+    
+//     &:hover {
+//       background-color: rgba(37, 99, 235, 0.05);
+//     }
+//   }
+  
+//   .navbar-nav .nav-item.active > .nav-link {
+//     background-color: rgba(37, 99, 235, 0.06);
+//     font-weight: normal;  // Keep regular even when active
+//   }
+// }
+
+
 /* Navigation - lighter, cleaner look */
 .navbar {
   background-color: rgba(250, 251, 252, 0.95);
@@ -65,26 +94,61 @@ a {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
   
   .navbar-brand {
-    font-weight: normal;  // Regular weight
+    font-weight: normal;
+    color: var(--global-text-color) !important;  // Add this
   }
   
   .navbar-nav .nav-item .nav-link {
-    font-weight: normal;  // Regular weight
+    font-weight: normal;
     letter-spacing: 0;
     padding: 0.5rem 1rem;
     margin: 0 0.25rem;
     border-radius: 6px;
+    color: var(--global-text-color);  // Add this
     
     &:hover {
       background-color: rgba(37, 99, 235, 0.05);
+      color: var(--global-hover-color);  // Add this
     }
   }
   
   .navbar-nav .nav-item.active > .nav-link {
     background-color: rgba(37, 99, 235, 0.06);
-    font-weight: normal;  // Keep regular even when active
+    font-weight: normal;
+    color: var(--global-theme-color);  // Add this
   }
 }
+
+
+
+/* Dark mode navbar fix */
+html[data-theme="dark"] {
+  .navbar {
+    background-color: rgba(28, 28, 29, 0.95);  // Dark background
+    
+    .navbar-brand {
+      color: var(--global-text-color) !important;
+    }
+    
+    .navbar-nav .nav-item .nav-link {
+      color: var(--global-text-color);  // Light text in dark mode
+      
+      &:hover {
+        background-color: rgba(34, 211, 238, 0.1);
+        color: var(--global-hover-color);
+      }
+    }
+    
+    .navbar-nav .nav-item.active > .nav-link {
+      background-color: rgba(34, 211, 238, 0.15);
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+
+
+
 
 /* Headers - keep light like original */
 h1, h2, h3, h4, h5, h6 {
