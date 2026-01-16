@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/AquaStoch/projects/";
@@ -39,12 +39,23 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "working on the groundwater markets and managment",
           section: "Navigation",
           handler: () => {
             window.location.href = "/AquaStoch/people/";
           },
-        },{id: "post-a-post-with-math",
+        },{id: "post-a-dynamic-model-of-groundwater-market",
+        
+          title: "A dynamic model of groundwater market",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2025/model1/";
+          
+        },
+      },{id: "post-a-post-with-math",
         
           title: "a post with math",
         
@@ -53,17 +64,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/AquaStoch/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/AquaStoch/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
@@ -84,11 +84,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2025_12_01/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-structured-modle",
+          title: 'Structured Modle',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/AquaStoch/projects/1_project/";
+              window.location.href = "/AquaStoch/projects/model1/";
+            },},{id: "projects-template",
+          title: 'template',
+          description: "description",
+          section: "Projects",handler: () => {
+              window.location.href = "/AquaStoch/projects/templatel/";
             },},{
         id: 'social-cv',
         title: 'CV',
