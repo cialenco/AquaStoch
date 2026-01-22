@@ -1,7 +1,5 @@
-Mike Ludkovski  is a Full Professor 
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<span style="font-size: 1.4em;">**[Mike Ludkovski](http://ludkovski.pstat.ucsb.edu)**</span>  is a Professor of [Statistics and Applied Probability](www.pstat.ucsb.edu) at University of California Santa Barbara where he co-directs the [Center for Financial Mathematics and Actuarial Research](www.cfmar.pstat.ucsb.edu).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Among his research interests are renewable energy markets, and groundwater markets.
+He also works on Gaussian process models,  stochastic control, computational finance and mortality analysis. His research has been supported by NSF, DOE, ARPA- E among others and includes over 70 peer-reviewed publications. He has worked in the area of stochastic models for energy finance for 15+ years, including co-editing a Springer volume on “Commodities, Energy and Environmental Finance” and teaching multiple summer mini-courses on this topic. He holds a Ph.D. in Operations Research and Financial Engineering from Princeton University and has held visiting positions at London School of Economics and Paris Dauphine University.

@@ -2,7 +2,7 @@
 layout: page
 title: Pro-rata Model
 description:  
-img: assets/img/5.jpg
+img: assets/img/6.jpg
 importance: 2
 category: models
 # related_publications: true
