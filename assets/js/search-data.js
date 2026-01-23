@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/AquaStoch/people/";
           },
-        },{id: "post-test-post",
+        },{id: "post-defining-equilibria-in-groundwater-markets",
+        
+          title: "Defining Equilibria in Groundwater Markets",
+        
+        description: "not sure what this &quot;description&quot; is for",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2025/sifin/";
+          
+        },
+      },{id: "post-test-post",
         
           title: "Test post",
         
