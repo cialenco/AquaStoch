@@ -9,6 +9,6 @@ category: models
 bibliography: papers
 ---
 
-Put here a snapshot of the main model {% cite cialenco2025groundwater}
+Put here a snapshot of the main model {% cite cialenco2025groundwater %}
 
 
