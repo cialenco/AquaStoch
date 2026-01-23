@@ -95,12 +95,7 @@ ninja.data = [{
             window.location.href = "/AquaStoch/blog/2015/math/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/AquaStoch/books/the_godfather/";
-            },},{id: "news-cialenco-and-ludkovski-win-nsf-grant",
+      },{id: "news-cialenco-and-ludkovski-win-nsf-grant",
           title: 'Cialenco and Ludkovski win NSF grant',
           description: "",
           section: "News",handler: () => {
@@ -108,7 +103,12 @@ ninja.data = [{
             },},{id: "news-first-paper-published-tada",
           title: 'First paper published :tada:',
           description: "",
-          section: "News",},{id: "news-cialenco-featured-on-illinois-tech-research-magazine",
+          section: "News",},{id: "news-siam-fm25-minisymposium-quot-stochastic-games-for-environmental-challenges-quot",
+          title: 'SIAM FM25, minisymposium  &amp;quot;Stochastic Games for Environmental Challenges&amp;quot;',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/AquaStoch/news/2025_07_06/";
+            },},{id: "news-cialenco-featured-on-illinois-tech-research-magazine",
           title: 'Cialenco featured on Illinois Tech Research Magazine',
           description: "",
           section: "News",handler: () => {
