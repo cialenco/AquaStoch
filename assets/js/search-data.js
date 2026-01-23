@@ -51,11 +51,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/AquaStoch/people/";
           },
-        },{id: "post-defining-equilibria-in-groundwater-markets",
+        },{id: "post-a-stochastic-game-framework-for-groundwater-markets",
         
-          title: "Defining Equilibria in Groundwater Markets",
+          title: "A Stochastic Game Framework for Groundwater Markets",
         
-        description: "not sure what this &quot;description&quot; is for",
+        description: "Defining equilibria for competitive groundwater trading",
         section: "Posts",
         handler: () => {
           
