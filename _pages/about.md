@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  catchy subtitle ? #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  tracking research at the interface of Ground Hydrology, Game Theory, Finance and Stochastics. #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write about the project here. 
-Make this web-page generally dedicated to quantitative models of water markets etc. not only related to our publications.  
+This public website provides a one-stop comprehensive resource for researchers working on quantitative models of groundwater markets. We cover market design, empirical analysis, stochastic frameworks and economic perspectives on the emerging world of groundwater rights allocation, trading and usage tracking. 
 
-This website was created and actiactively maintained by [Igor Cialenco](http://cialenco.com) and [Mike Ludkovski](https://ludkovski.pstat.ucsb.edu/).
+This website is actively maintained by [Igor Cialenco](http://cialenco.com) and [Mike Ludkovski](https://ludkovski.pstat.ucsb.edu/).
 
