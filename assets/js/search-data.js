@@ -105,8 +105,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2025_04_01/";
-            },},{id: "news-first-paper-published-tada",
-          title: 'First paper published :tada:',
+            },},{id: "news-a-groundwater-market-model-by-cialenco-and-ludkovski-published-in-sifin-tada",
+          title: 'A groundwater market model, by Cialenco and Ludkovski published in SIFIN  :tada:',
           description: "",
           section: "News",},{id: "news-ludkovski-delivers-an-invited-talk-on-groundwater-markets-at-the-byrne-b2a2-back-to-ann-arbor-conference-on-stochastic-analysis-in-finance-and-insurance-at-university-of-michigan",
           title: 'Ludkovski delivers an invited talk on “Groundwater Markets” at the Byrne B2A2(Back to...',
