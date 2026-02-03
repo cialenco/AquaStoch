@@ -2,7 +2,7 @@
 layout: page
 title: Structured Model
 description:  
-img: assets/img/5.jpg
+img: assets/img/ocean.jpg
 importance: 1
 category: models
 related_publications: true

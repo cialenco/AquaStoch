@@ -2,7 +2,7 @@
 layout: page
 title: Markov Chain Calibration
 description: description 
-img: assets/img/lake.jpg
+img: assets/img/well.jpg
 importance: 1
 category: data
 related_publications: true
