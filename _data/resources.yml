@@ -1,0 +1,26 @@
+
+
+centers:
+  - title: Public Policy Institute of California (PPIC)  Water Policy Center
+    url: https://www.ppic.org/water/ 
+    description: Connects nonpartisan, objective research to real-world water management debates, with the goal of putting California water policy on a sustainable and constructive path. 
+    
+
+datasets:
+
+  - title: USGS Water Data
+    url: https://waterdata.usgs.gov
+    description: Surface and groundwater data for the US
+
+in_press:
+  - title: Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.”
+    journal: New York Times
+    year: 2026
+    url: https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html
+
+
+  - title: "Arizona draws a line on groundwater use after letting Saudi-owned company pump freely for years"
+    journal: LA Times
+    year: 2026
+    url: https://www.latimes.com/environment/story/2026-01-13/arizona-governor-water-crackdown
+

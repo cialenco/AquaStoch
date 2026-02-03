@@ -1,47 +1,61 @@
 ---
 layout: page
-permalink: /resources/
 title: resources
-description: Include here various resources 
+permalink: /resources/
+description: Curated resources by category
 nav: true
-nav_order: 4
----
-<!-- 
-{% if site.data.repositories.github_users %}
-
-## GitHub users
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
+nav_order: 6
+display_categories:
+  - centers
+  - datasets
+  - in_press
 ---
 
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+<div class="projects">
 
-  <h4>{{ user }}</h4>
+{% if page.display_categories %}
+
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">
+      {{ category | replace: "_", " " }}
+    </h2>
+  </a>
+
+  {% assign categorized_resources = site.data.resources[category] %}
+
+  {% if categorized_resources %}
+  <ul class="resource-list">
+    {% for item in categorized_resources %}
+    <li>
+      <strong>
+        {% if item.url %}
+          <a href="{{ item.url }}" target="_blank" rel="noopener">
+            {{ item.title }}
+          </a>
+        {% else %}
+          {{ item.title }}
+        {% endif %}
+      </strong>
+
+      {% if item.authors %}
+        <br><em>{{ item.authors }}</em>
+      {% endif %}
+
+      {% if item.journal %}
+        — {{ item.journal }}{% if item.year %}, {{ item.year }}{% endif %}
+      {% endif %}
+
+      {% if item.description %}
+        <br>{{ item.description }}
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
   {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
 
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
   {% endfor %}
+
+{% endif %}
+
 </div>
-{% endif %} -->
