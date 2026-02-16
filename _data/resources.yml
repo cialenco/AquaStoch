@@ -13,6 +13,11 @@ datasets:
     description: Surface and groundwater data for the US
 
 in_press:
+  - title: Santa Barbara State Water Agency New  Director Focuses to Storage to Boost Supplies 
+    journal: Noozhawk
+    year: 2026
+    url: https://www.noozhawk.com/santa-barbara-state-water-agency-hires-new-director-turns-focus-to-storage-to-boost-supplies/
+
   - title: Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.”
     journal: New York Times
     year: 2026
