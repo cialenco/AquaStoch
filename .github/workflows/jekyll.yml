@@ -18,30 +18,43 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repository
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Setup Ruby 3.1 without bundler-cache
       - name: Setup Ruby
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
         with:
           ruby-version: '3.1'
-          bundler-cache: false   # disable auto caching
+          bundler-cache: false
 
+      # Update RubyGems to latest to fix gem install issues
       - name: Update RubyGems
         run: gem update --system
 
+      # Install system dependencies required for native gems
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential ruby-dev zlib1g-dev liblzma-dev libxml2-dev libxslt1-dev
+
+      # Install gems using Bundler 2 explicitly
       - name: Install gems with Bundler 2
         run: bundle _2.7.2_ install --jobs 4 --retry 3
 
+      # Setup GitHub Pages environment
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
+      # Build the Jekyll site
       - name: Build with Jekyll
         run: bundle _2.7.2_ exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
 
+      # Upload the generated site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
