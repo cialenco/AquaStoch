@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/AquaStoch/blog/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/AquaStoch/projects/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "working on the groundwater markets and managment",
@@ -51,7 +44,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/AquaStoch/resources/";
           },
-        },{id: "post-a-stochastic-game-framework-for-groundwater-markets",
+        },{id: "post-rl-for-groundwater-markets",
+        
+          title: "RL for groundwater markets",
+        
+        description: "reinforcment learning approach to stochastic markets",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2026/RL/";
+          
+        },
+      },{id: "post-pro-rata-for-groundwater-market",
+        
+          title: "Pro-rata for groundwater market",
+        
+        description: "a pro-rata appproach to groundwater market imbalance",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2026/pro-rata/";
+          
+        },
+      },{id: "post-recahrge-process",
+        
+          title: "Recahrge process",
+        
+        description: "calibration of the groundater recharge process",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2025/data-recharge/";
+          
+        },
+      },{id: "post-a-stochastic-game-framework-for-groundwater-markets",
         
           title: "A Stochastic Game Framework for Groundwater Markets",
         
@@ -60,17 +86,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/AquaStoch/blog/2025/sifin/";
-          
-        },
-      },{id: "post-a-post-with-math",
-        
-          title: "a post with math",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/AquaStoch/blog/2015/math/";
           
         },
       },{id: "news-cialenco-and-ludkovski-awarded-nsf-grant-on-management-of-water-rights",
