@@ -13,6 +13,13 @@ datasets:
     description: Surface and groundwater data for the US
 
 in_press:
+
+  - title: "Water restrictions hit home in California"
+    journal: NPR
+    year: 2026 
+    url: https://www.npr.org/transcripts/nx-s1-5678639
+
+
   - title: Santa Barbara State Water Agency New  Director Focuses to Storage to Boost Supplies 
     journal: Noozhawk
     year: 2026

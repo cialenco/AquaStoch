@@ -25,5 +25,14 @@ profiles:
       <p>5520 South Hall</p>
       <p>Statitsics & Applied Probability, UC Santa Barbara, USA</p>
       <p>ludkovski at pstat[*]ucsb[*]edu</p>
+
+  - category: students
+
+  - align: right
+    image: Gael.jpeg
+    content: about_gael.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Applied Math, Illinois Tech, Chicago, USA</p>
 ---
 ---
