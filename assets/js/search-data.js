@@ -66,9 +66,9 @@ ninja.data = [{
             window.location.href = "/AquaStoch/blog/2026/pro-rata/";
           
         },
-      },{id: "post-recahrge-process",
+      },{id: "post-recharge-process",
         
-          title: "Recahrge process",
+          title: "Recharge process",
         
         description: "calibration of the groundater recharge process",
         section: "Posts",
