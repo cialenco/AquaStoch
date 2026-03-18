@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recahrge process 
+title: Recharge process 
 date: 2025-10-20 
 description: calibration of the groundater recharge process 
 tags: recharge, data

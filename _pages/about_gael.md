@@ -1,7 +1,5 @@
 
-<span style="font-size: 1.4em;">**[Gael ](http://cialenco.com)**</span>  is 
-
-
+<span style="font-size: 1.4em;">**[Gael Dimitri Tekam Fongouo](https://www.linkedin.com/in/dimitri-tekam/)**</span>  is a PhD candidate in Applied Mathematics at Illinois Tech specializing in multi period stochastic game theory and quantitative modeling. His current research, supervised by Professor  Igor Cialenco, focuses on developing rigorous mathematical frameworks for the computation of dynamic Nash Equilibria in stochastic games. The techniques advance tools for multi-period stochastic Nash game and financial problems by paralleling equilibrium pricing procedures in derivatives markets, portfolio allocation, and optimization.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

@@ -29,10 +29,35 @@ profiles:
   - category: students
 
   - align: right
+    image: 
+    content: about_ishaan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Applied Math, Illinois Tech, Chicago, USA</p>
+
+  - align: left
+    image: 
+    content: about_john.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>5520 South Hall</p>
+      <p>Statitsics & Applied Probability, UC Santa Barbara, USA</p>
+
+
+  - align: right
+    image: 
+    content: about_mikeK.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Applied Math, Illinois Tech, Chicago, USA</p>
+
+  - align: left
     image: Gael.jpeg
     content: about_gael.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Applied Math, Illinois Tech, Chicago, USA</p>
+
+
 ---
 ---
