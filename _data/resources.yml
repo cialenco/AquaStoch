@@ -8,9 +8,37 @@ centers:
 
 datasets:
 
-  - title: USGS Water Data
+  - title: The United States Geological Survey (USGS) 
     url: https://waterdata.usgs.gov
     description: Surface and groundwater data for the US
+    divider: true
+
+
+  - title: Arizona Department of Water Resources
+    url: https://www.azwater.gov/depth-water-data 
+    description: Groundwater data for Arizona
+  
+  - title: The Arizona Groundwater Dashboard 
+    url: https://asu.maps.arcgis.com/apps/dashboards/57696be87aac421f90ab2033807b7310 
+    description: Interactive dashboard by ASU with groundwater data for Arizona, including groundwater levels, groundwater level changes, and registered wells.
+
+
+  - title: California Statewide Groundwater Elevation Monitoring (CASGEM)
+    url: https://water.ca.gov/Programs/Groundwater-Management/Groundwater-Elevation-Monitoring
+    description: Groundwater elevation data for California Program has tracked seasonal and long-term groundwater elevation trends in groundwater basins and non-basin areas statewide. 
+
+  - title: Nebraska Department of Water, Energy, and Environment; Groundwater Management and Protection Division
+    url: https://dnr.nebraska.gov/groundwater
+    description: Groundwater data for Nebraska
+
+  - title: University of Nebraska; Conservation and Survey Division 
+    url: https://snr.unl.edu/csd/map/
+    description: Interactive Data Map with layers; AEM flight lines, aquifer outlines, groundwater levels, groundwater level changes, test hole data, registered wells and basic geologic maps.
+
+
+
+
+
 
 in_press:
 

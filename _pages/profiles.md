@@ -29,11 +29,15 @@ profiles:
   - category: students
 
   - align: right
-    image: 
+    image: ishaan.jpg
     content: about_ishaan.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Applied Math, Illinois Tech, Chicago, USA</p>
+      <a href="https://igoeldc.github.io/">igoeldc.github.io</a>
+
+
+
 
   - align: left
     image: 
