@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/AquaStoch/blog/2026/RL/";
           
         },
+      },{id: "post-hidden-markov-precipitation-model",
+        
+          title: "Hidden Markov Precipitation Model",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2026/hmm/";
+          
+        },
       },{id: "post-pro-rata-for-groundwater-market",
         
           title: "Pro-rata for groundwater market",
