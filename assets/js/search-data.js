@@ -77,17 +77,6 @@ ninja.data = [{
             window.location.href = "/AquaStoch/blog/2026/pro-rata/";
           
         },
-      },{id: "post-recharge-process",
-        
-          title: "Recharge process",
-        
-        description: "calibration of the groundater recharge process",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/AquaStoch/blog/2025/data-recharge/";
-          
-        },
       },{id: "post-a-stochastic-game-framework-for-groundwater-markets",
         
           title: "A Stochastic Game Framework for Groundwater Markets",
