@@ -117,7 +117,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2025_12_01/";
-            },},{id: "projects-rl",
+            },},{id: "news-cialenco-delivers-a-collqoium-talk-on-dynamic-groundwater-rights-markets-at-nyu-tandon-peter-carr-seminar-series",
+          title: 'Cialenco delivers a collqoium talk on “Dynamic Groundwater Rights Markets” at NYU Tandon...',
+          description: "",
+          section: "News",},{id: "projects-rl",
           title: 'RL',
           description: "Reinforcement learning for groundwater market",
           section: "Projects",handler: () => {
