@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/AquaStoch/resources/";
           },
-        },{id: "post-rl-for-groundwater-markets",
+        },{id: "post-chino-basin-water-rights-an-empirical-overview",
+        
+          title: "Chino Basin Water Rights - An Empirical Overview",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2026/chino-basin/";
+          
+        },
+      },{id: "post-rl-for-groundwater-markets",
         
           title: "RL for groundwater markets",
         
