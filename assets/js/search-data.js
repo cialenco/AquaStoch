@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/AquaStoch/blog/2026/chino-basin/";
           
         },
+      },{id: "post-pro-rata-distribution-for-groundwater-market",
+        
+          title: "Pro-rata distribution for groundwater market",
+        
+        description: "a pro-rata appproach to groundwater market imbalance",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2026/pro-rata/";
+          
+        },
       },{id: "post-rl-for-groundwater-markets",
         
           title: "RL for groundwater markets",
@@ -70,22 +81,11 @@ ninja.data = [{
         
           title: "Hidden Markov Precipitation Model",
         
-        description: "",
+        description: "Calibration of a Markov chain to model the groundwater recharge process",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/AquaStoch/blog/2026/hmm/";
-          
-        },
-      },{id: "post-pro-rata-for-groundwater-market",
-        
-          title: "Pro-rata for groundwater market",
-        
-        description: "a pro-rata appproach to groundwater market imbalance",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/AquaStoch/blog/2026/pro-rata/";
           
         },
       },{id: "post-a-stochastic-game-framework-for-groundwater-markets",
