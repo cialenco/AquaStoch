@@ -57,7 +57,7 @@ ninja.data = [{
         },
       },{id: "post-pro-rata-distribution-for-groundwater-market",
         
-          title: "Pro-rata distribution for groundwater market",
+          title: "Pro-rata Distribution for Groundwater Market",
         
         description: "a pro-rata appproach to groundwater market imbalance",
         section: "Posts",
@@ -131,7 +131,12 @@ ninja.data = [{
             },},{id: "news-cialenco-delivers-a-collqoium-talk-on-dynamic-groundwater-rights-markets-at-nyu-tandon-peter-carr-seminar-series",
           title: 'Cialenco delivers a collqoium talk on “Dynamic Groundwater Rights Markets” at NYU Tandon...',
           description: "",
-          section: "News",},{id: "projects-rl",
+          section: "News",},{id: "news-tekam-fongouo-and-goel-presented-their-work-at-a-poster-session",
+          title: 'Tekam Fongouo and Goel presented their work at a poster session',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/AquaStoch/news/2026_04_13/";
+            },},{id: "projects-rl",
           title: 'RL',
           description: "Reinforcement learning for groundwater market",
           section: "Projects",handler: () => {
