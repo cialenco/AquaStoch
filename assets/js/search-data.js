@@ -66,17 +66,6 @@ ninja.data = [{
             window.location.href = "/AquaStoch/blog/2026/pro-rata/";
           
         },
-      },{id: "post-rl-for-groundwater-markets",
-        
-          title: "RL for groundwater markets",
-        
-        description: "reinforcment learning approach to stochastic markets",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/AquaStoch/blog/2026/RL/";
-          
-        },
       },{id: "post-hidden-markov-precipitation-model",
         
           title: "Hidden Markov Precipitation Model",
@@ -86,6 +75,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/AquaStoch/blog/2026/hmm/";
+          
+        },
+      },{id: "post-rl-for-groundwater-markets",
+        
+          title: "RL for groundwater markets",
+        
+        description: "reinforcment learning approach to stochastic markets",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2025/RL/";
           
         },
       },{id: "post-a-stochastic-game-framework-for-groundwater-markets",
