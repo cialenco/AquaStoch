@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/AquaStoch/resources/";
           },
-        },{id: "post-chino-basin-water-rights-an-empirical-overview",
+        },{id: "post-dynamic-phenomena-in-multi-period-groundwater-markets",
+        
+          title: "Dynamic Phenomena in Multi-period Groundwater Markets",
+        
+        description: "Exploring dynamic evolution of groundwater markets",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2026/multiper/";
+          
+        },
+      },{id: "post-chino-basin-water-rights-an-empirical-overview",
         
           title: "Chino Basin Water Rights - An Empirical Overview",
         
