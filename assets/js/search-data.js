@@ -147,7 +147,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2026_04_13/";
-            },},{id: "projects-rl",
+            },},{id: "news-new-priprint-on-multiperiod-groundwater-markets-by-cialenco-and-ludkovski-posted-on-arxiv-see-related-blog-post",
+          title: 'New priprint on Multiperiod Groundwater Markets, by Cialenco and Ludkovski posted on Arxiv....',
+          description: "",
+          section: "News",},{id: "projects-rl",
           title: 'RL',
           description: "Reinforcement learning for groundwater market",
           section: "Projects",handler: () => {
