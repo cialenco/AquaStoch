@@ -189,6 +189,8 @@ kramdown:
 
 # Includes & excludes
 include: ["_pages", "_scripts"]
+  - googlea887829e00ef949e.html
+
 exclude:
   - bin/
   - CONTRIBUTING.md
