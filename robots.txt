@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
 Sitemap: https://cialenco.github.io/AquaStoch/sitemap.xml
