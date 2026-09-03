@@ -24,19 +24,32 @@ datasets:
 
 
   - title: California Statewide Groundwater Elevation Monitoring (CASGEM)
-    url: https://water.ca.gov/Programs/Groundwater-Management/Groundwater-Elevation-Monitoring
+    url: https://water.ca.gov/Programs/Groundwater-Management/Groundwater-Elevation-Monitoring--CASGEM
     description: Groundwater elevation data for California Program has tracked seasonal and long-term groundwater elevation trends in groundwater basins and non-basin areas statewide. 
+  
+  - title: Illinois State Water Survey; Groundwater Data
+    url: https://isws.illinois.edu/research/water-resource-systems/groundwater-monitoring-networks/
+    description: Groundwater data for Illinois
 
   - title: Nebraska Department of Water, Energy, and Environment; Groundwater Management and Protection Division
     url: https://dnr.nebraska.gov/groundwater
+    description: Groundwater data for Nebraska
+  
+  - title: Nebraska; Groundwater Data
+    url: https://dwee.nebraska.gov/data/groundwater-data
     description: Groundwater data for Nebraska
 
   - title: University of Nebraska; Conservation and Survey Division 
     url: https://snr.unl.edu/csd/map/
     description: Interactive Data Map with layers; AEM flight lines, aquifer outlines, groundwater levels, groundwater level changes, test hole data, registered wells and basic geologic maps.
 
+  - title: Texas Water Development Board; Groundwater Data
+    url: https://www.twdb.texas.gov/groundwater/data/index.asp
+    description: Groundwater data for Texas
 
-
+  - title: Terrestrial Water Storage Anomaly (TWSA) Data for Texas
+    url: https://txwater.beg.utexas.edu/straws/aquifer/Edwards-Trinity%20Plateau
+    description: Interactive map of aquifers in Texas
 
 
 
