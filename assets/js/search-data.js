@@ -147,10 +147,23 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2026_04_13/";
-            },},{id: "news-new-priprint-on-multiperiod-groundwater-markets-by-cialenco-and-ludkovski-posted-on-arxiv-see-related-blog-post",
-          title: 'New priprint on Multiperiod Groundwater Markets, by Cialenco and Ludkovski posted on Arxiv....',
+            },},{id: "news-new-preprint-on-multiperiod-groundwater-markets-by-cialenco-and-ludkovski-posted-on-arxiv-see-related-blog-post",
+          title: 'New preprint on Multiperiod Groundwater Markets, by Cialenco and Ludkovski posted on Arxiv....',
           description: "",
-          section: "News",},{id: "projects-rl",
+          section: "News",},{id: "news-cialenco-and-ludkovski-organize-a-thematic-session-at-bfs-congresss",
+          title: 'Cialenco and Ludkovski organize a thematic session at BFS Congresss',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/AquaStoch/news/2026_07_01/";
+            },},{id: "news-new-preprint-on-pro-rata-mechanisms-in-groundwater-markets-by-cialenco-ludkovski-and-tekam-fongouo-posted-on-arxiv-see-related-blog-post",
+          title: 'New preprint on Pro-rata mechanisms in groundwater markets, by Cialenco, Ludkovski and Tekam...',
+          description: "",
+          section: "News",},{id: "news-groundwater-management-combating-the-sinking-feeling-to-appear-in-notices-of-ams",
+          title: 'Groundwater Management, Combating the Sinking Feeling to appear in Notices of AMS',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/AquaStoch/news/2026_08_24/";
+            },},{id: "projects-rl",
           title: 'RL',
           description: "Reinforcement learning for groundwater market",
           section: "Projects",handler: () => {
