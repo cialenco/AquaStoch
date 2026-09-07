@@ -187,9 +187,14 @@ kramdown:
       line_numbers: false
       start_line: 1
 
-# Includes & excludes
-include: ["_pages", "_scripts"]
-  - googlea887829e00ef949e.html
+# # Includes & excludes
+# include: ["_pages", "_scripts"]
+#   - googlea887829e00ef949e.html
+
+include:
+  - "_pages"
+  - "_scripts"
+  - "googlea887829e00ef949e.html"
 
 exclude:
   - bin/
