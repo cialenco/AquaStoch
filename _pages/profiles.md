@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: working on the groundwater markets and managment   
+description: working on the groundwater markets and management   
 nav: true
 nav_order: 4
 

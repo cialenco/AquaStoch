@@ -25,8 +25,8 @@ datasets:
 
   - title: California Statewide Groundwater Elevation Monitoring (CASGEM)
     url: https://water.ca.gov/Programs/Groundwater-Management/Groundwater-Elevation-Monitoring--CASGEM
-    description: Groundwater elevation data for California Program has tracked seasonal and long-term groundwater elevation trends in groundwater basins and non-basin areas statewide. 
-  
+    description: Groundwater elevation data for California. 
+    
   - title: Illinois State Water Survey; Groundwater Data
     url: https://isws.illinois.edu/research/water-resource-systems/groundwater-monitoring-networks/
     description: Groundwater data for Illinois
@@ -61,7 +61,7 @@ in_press:
     url: https://www.npr.org/transcripts/nx-s1-5678639
 
 
-  - title: Santa Barbara State Water Agency New  Director Focuses to Storage to Boost Supplies 
+  - title: Santa Barbara State Water Agency New  Director Focuses on Storage to Boost Supplies 
     journal: Noozhawk
     year: 2026
     url: https://www.noozhawk.com/santa-barbara-state-water-agency-hires-new-director-turns-focus-to-storage-to-boost-supplies/

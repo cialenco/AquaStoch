@@ -47,7 +47,7 @@ The basin has a three-pool structure, where
   </div>
 </div>
 
-In the original 1978 Judgement, there is a distinction between the original allocation and the Safe Yield (SY). Safe yield is the amount the basin can sustainably produce annually in perpetuity, the renewable, long-term yield of the aquifer. This is important, because the safe yield is what the entities actually trade. Total Allocated AF (acre-feet) is larger, because it also includes a share of the controlled overdraft, a finite one-time drawdown of groundwater storage that the court allowed parties to pump beyond safe yield.
+In the original 1978 Judgment, there is a distinction between the original allocation and the Safe Yield (SY). Safe yield is the amount the basin can sustainably produce annually in perpetuity, the renewable, long-term yield of the aquifer. This is important, because the safe yield is what the entities actually trade. Total Allocated AF (acre-feet) is larger, because it also includes a share of the controlled overdraft, a finite one-time drawdown of groundwater storage that the court allowed parties to pump beyond safe yield.
 
 ## The Data
 
@@ -65,7 +65,7 @@ Pool 2 is an infrequently traded market with 25 transactions between 19 entities
   <div class="col-12 mt-3">
       {% include figure.liquid path="assets/fig/pool2_lollipop.png" 
     title="Pool 2. Water rights transactions" 
-    caption = "Fig 1: Pool 2, water rights transactions" clickable=true %}
+    caption = "Fig 2: Pool 2, water rights transactions" clickable=true %}
   </div>
 </div>
 
@@ -114,7 +114,7 @@ Pool 3 is also infrequently traded due to the nature of the Appropriative pool, 
 With all of the information that we have regarding the Chino Basin, there are still significant limitations. 
 - The biggest of these is that there is no transaction *pricing data* for any of the permanent Pool 2 or Pool 3 rights transfers. Without this, it isn't possible to characterize the price at which rights have historically traded, which is a crucial input for calibrating the model. 
 - In addition to this, we don't have access to older annual reports, which would provide additional insight into historical transactions. 
-- The available documents do nnot cover Pool 1 (Agricultural), as the rights are a shared pool and not individually tradeable
+- The available documents do not cover Pool 1 (Agricultural), as the rights are a shared pool and not individually tradeable
 - There is a lack of information when it comes to water rights usage for entities that are holding tenants in common with each other. It is not clear what percentage of the water rights each entity is allowed to utilize according to their agreements. 
 - Some of the historical transactions only contain years and not specific dates, which introduces uncertainty in the timeline of transactions. 
 - Lastly, some Pool 3 entities made no transfers of their original rights and therefore do not appear in the transaction data.

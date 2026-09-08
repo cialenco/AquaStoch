@@ -1,13 +1,10 @@
 # AquaStoch
 
-AquaStoch is a project focused on stochastic modeling and simulation of aquatic systems. This repository contains the source code, documentation, and resources for running and understanding the AquaStoch platform.
+A one-stop comprehensive resource for researchers working on quantitative models of groundwater markets. We cover market design, empirical analysis, stochastic frameworks and economic perspectives on the emerging world of groundwater rights allocation, trading and usage tracking.
 
 ## Features
-
 - Stochastic simulation of aquatic environments
-- Modular and extensible codebase
 - Data visualization and analysis tools
-- Configurable simulation parameters
 
 ## Getting Started
 

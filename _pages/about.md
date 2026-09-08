@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  tracking research at the interface of Ground Hydrology, Game Theory, Finance and Stochastics. #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  tracking research at the interface of Groundwater Hydrology, Game Theory, Finance and Stochastics. #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
