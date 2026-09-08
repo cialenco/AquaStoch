@@ -1,9 +1,9 @@
 
-<span style="font-size: 1.4em;">**[Igor Cialenco](http://cialenco.com)**</span>  is a Full Professor of Applied Mathematics at the [Illinois Institute of Technology](http://illinoistech.edu), specializing in stochastic modeling, mathematical and environmental finance, statistical inference and stochastic control, . 
+<span style="font-size: 1.4em;">**[Igor Cialenco](http://cialenco.com)**</span>  is a Full Professor of Applied Mathematics at the [Illinois Institute of Technology](http://illinoistech.edu), specializing in stochastic modeling, mathematical and environmental finance, statistical inference and stochastic control. 
 
 His research, sponsored by NSF, focuses on developing quantitative tools for analyzing uncertainty, long‑term risk, and fairness in systems governed by complex environmental and economic interactions. He has been training  scientists to apply rigorous mathematical and statistacal methods to policy‑relevant environmental and regulatory challenges. 
 
-He held leadership roles within [SIAM Activity Group on Financial Mathematics and Engineering](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/financial-mathematics-and-engineering/), serves on multiple editorial boards in applied mathematics and finance, and have directed graduate programs in applied mathematics at Illinois Tech. 
+He held leadership roles within [SIAM Activity Group on Financial Mathematics and Engineering](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/financial-mathematics-and-engineering/), serves on multiple editorial boards in applied mathematics and finance, and has directed graduate programs in applied mathematics at Illinois Tech. 
 
 
 

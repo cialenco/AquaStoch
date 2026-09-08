@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "working on the groundwater markets and managment",
+          description: "working on the groundwater markets and management",
           section: "Navigation",
           handler: () => {
             window.location.href = "/AquaStoch/people/";
@@ -70,7 +70,7 @@ ninja.data = [{
         
           title: "Pro-rata Distribution for Groundwater Market",
         
-        description: "a pro-rata appproach to groundwater market imbalance",
+        description: "a pro-rata approach to groundwater market imbalance",
         section: "Posts",
         handler: () => {
           
@@ -86,17 +86,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/AquaStoch/blog/2026/hmm/";
-          
-        },
-      },{id: "post-rl-for-groundwater-markets",
-        
-          title: "RL for groundwater markets",
-        
-        description: "reinforcment learning approach to stochastic markets",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/AquaStoch/blog/2025/RL/";
           
         },
       },{id: "post-a-stochastic-game-framework-for-groundwater-markets",
@@ -139,8 +128,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2025_12_01/";
-            },},{id: "news-cialenco-delivers-a-collqoium-talk-on-dynamic-groundwater-rights-markets-at-nyu-tandon-peter-carr-seminar-series",
-          title: 'Cialenco delivers a collqoium talk on “Dynamic Groundwater Rights Markets” at NYU Tandon...',
+            },},{id: "news-cialenco-delivers-a-colloquium-talk-on-dynamic-groundwater-rights-markets-at-nyu-tandon-peter-carr-seminar-series",
+          title: 'Cialenco delivers a colloquium talk on “Dynamic Groundwater Rights Markets” at NYU Tandon...',
           description: "",
           section: "News",},{id: "news-tekam-fongouo-and-goel-presented-their-work-at-a-poster-session",
           title: 'Tekam Fongouo and Goel presented their work at a poster session',
@@ -150,8 +139,8 @@ ninja.data = [{
             },},{id: "news-new-preprint-on-multiperiod-groundwater-markets-by-cialenco-and-ludkovski-posted-on-arxiv-see-related-blog-post",
           title: 'New preprint on Multiperiod Groundwater Markets, by Cialenco and Ludkovski posted on Arxiv....',
           description: "",
-          section: "News",},{id: "news-cialenco-and-ludkovski-organize-a-thematic-session-at-bfs-congresss",
-          title: 'Cialenco and Ludkovski organize a thematic session at BFS Congresss',
+          section: "News",},{id: "news-cialenco-and-ludkovski-organize-a-thematic-session-at-bfs-congress",
+          title: 'Cialenco and Ludkovski organize a thematic session at BFS Congress',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2026_07_01/";
