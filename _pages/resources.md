@@ -41,9 +41,9 @@ display_categories:
       {% if item.authors %}
         <br><em>{{ item.authors }}</em>
       {% endif %}
-
+      
       {% if item.journal %}
-        — {{ item.journal }}{% if item.year %}, {{ item.year }}{% endif %}
+        — {{ item.journal }}{% if item.date %}, {{ item.date | date: "%B %-d, %Y" }}{% elsif item.year %}, {{ item.year }}{% endif %}
       {% endif %}
 
       {% if item.description %}

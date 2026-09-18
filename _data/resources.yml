@@ -54,26 +54,144 @@ datasets:
 
 
 in_press:
+  
+  - title: "Aurora Water set to buy up more historic farm water in Lower Arkansas Valley"
+    journal: The Colorado Sun
+    year: 2026
+    date: 2026-09-09
+    url: https://coloradosun.com/2026/09/09/aurora-water-buy-ups-arkansas-river-valley-historic-farms/
+  
+  - title: "The next water crisis is beneath our feet"
+    journal: Yale Climate Connections
+    year: 2026
+    url: https://yaleclimateconnections.org/2026/09/the-next-water-crisis-is-beneath-our-feet/
+
+  - title: "America's data center boom puts new pressure on local water resources"
+    journal: NC State College of Natural Resources
+    year: 2026
+    url: https://cnr.ncsu.edu/news/2026/09/data-center-boom-water-resources/
+
+
+  - title: "The \"Asian water tower\" is losing 24 billion tonnes of groundwater every year"
+    journal: ScienceDaily
+    year: 2026
+    date: 2026-08-20
+    url: https://www.sciencedaily.com/releases/2026/08/260820002454.htm
+
+  - title: "Banking water underground for the next drought"
+    journal: Western Water
+    year: 2026
+    date: 2026-08-11
+    url: https://www.western-water.com/2026/08/11/banking-water-underground-for-the-next-drought/
+
+  - title: "Some coastal cities are sinking faster than the ocean is rising"
+    journal: ScienceDaily
+    year: 2026
+    date: 2026-08-01
+    url: https://www.sciencedaily.com/releases/2026/08/260801042824.htm
+
+  - title: "Appeals court sides with state on groundwater plan review"
+    journal: Western Water
+    year: 2026
+    date: 2026-07-31
+    url: https://www.western-water.com/2026/07/31/appeals-court-sides-with-state-on-groundwater-plan-review/
+
+  - title: "Virginia study on groundwater, data centers calls for tighter water regulations"
+    journal: VPM News
+    year: 2026
+    date: 2026-07-28
+    url: https://www.vpm.org/news/2026-07-28/virginia-study-on-groundwater-data-centers-calls-for-tighter-water-regulations
+
+  - title: "Water rights: the invisible asset farmland investors are beginning to price in"
+    journal: Forbes
+    year: 2026
+    date: 2026-06-23
+    url: https://www.forbes.com/councils/forbesfinancecouncil/2026/06/23/water-rights-the-invisible-asset-farmland-investors-are-beginning-to-price-in/
+
+  - title: "U.S. Supreme Court settles long-running Texas-New Mexico water dispute over Rio Grande"
+    journal: The Texas Tribune
+    year: 2026
+    date: 2026-05-28
+    url: https://www.texastribune.org/2026/05/28/texas-new-mexico-rio-grande-water-dispute-supreme-court-settlement/
+
+
+  - title: "The largest US groundwater supply is running out"
+    journal: Newsweek
+    year: 2026
+    date: 2026-05-28
+    url: https://www.newsweek.com/the-largest-us-groundwater-supply-is-running-out-11998061
+
+
+  - title: "DWR releases Spring 2026 semi-annual groundwater update"
+    journal: Maven's Notebook
+    year: 2026
+    date: 2026-05-20
+    url: https://mavensnotebook.com/2026/05/20/dwr-releases-spring-2026-semi-annual-groundwater-update/
+
+
+  - title: "Managed aquifer recharge: toward active aquifer stewardship?"
+    journal: The Water Diplomat
+    year: 2026
+    date: 2026-05-18
+    url: https://www.waterdiplomat.org/story/2026/05/managed-aquifer-recharge-toward-active-aquifer-stewardship
+  
+  - title: "With groundwater losses, many cities are sinking"
+    journal: Coeur d'Alene Press
+    year: 2026
+    date: 2026-05-11
+    url: https://cdapress.com/news/2026/may/11/with-groundwater-losses-many-cities-are-sinking/
+
+  - title: "California groundwater goals at risk, study finds"
+    journal: Western Water
+    year: 2026
+    date: 2026-04-28
+    url: https://www.western-water.com/2026/04/28/california-groundwater-goals-at-risk-study-finds/
+
+  - title: "Federal Water Tap: water, weather data points to difficult year for American West"
+    journal: Circle of Blue
+    year: 2026
+    date: 2026-04-13
+    url: https://www.circleofblue.org/newsletter/federal-water-tap-april-13-2026-water-weather-data-points-to-difficult-year-for-american-west/
+
+  - title: "Local agencies across California continue advancements toward groundwater sustainability"
+    journal: California Department of Water Resources
+    year: 2026
+    date: 2026-03-18
+    url: https://water.ca.gov/News/News-Releases/2026/Mar-2026/Local-Agencies-Across-California-Continue-Advancements-Toward-Groundwater-Sustainability
+
+  - title: "New report highlights California work to recharge groundwater"
+    journal: Office of the Governor of California
+    year: 2026
+    date: 2026-03-13
+    url: https://www.gov.ca.gov/2026/03/13/new-report-highlights-californias-vital-work-to-recharge-groundwater/
+
+  - title: "Two new Arizona bills would allow rural groundwater to be sold to large cities"
+    journal: AZFamily (3TV/CBS 5)
+    year: 2026
+    date: 2026-03-12
+    url: https://www.azfamily.com/2026/03/12/2-new-arizona-bills-would-allow-rural-groundwater-be-sold-large-cities/
 
   - title: "Water restrictions hit home in California"
     journal: NPR
     year: 2026 
+    date: 2026-03-09
     url: https://www.npr.org/transcripts/nx-s1-5678639
 
-
-  - title: Santa Barbara State Water Agency New  Director Focuses on Storage to Boost Supplies 
+  - title: "Santa Barbara State Water Agency New  Director Focuses on Storage to Boost Supplies"
     journal: Noozhawk
     year: 2026
+    date: 2026-02-26
     url: https://www.noozhawk.com/santa-barbara-state-water-agency-hires-new-director-turns-focus-to-storage-to-boost-supplies/
 
-  - title: Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.”
+  - title: "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar."
     journal: New York Times
     year: 2026
+    date: 2026-01-27
     url: https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html
-
 
   - title: "Arizona draws a line on groundwater use after letting Saudi-owned company pump freely for years"
     journal: LA Times
     year: 2026
+    date: 2026-01-13
     url: https://www.latimes.com/environment/story/2026-01-13/arizona-governor-water-crackdown
-
+  
