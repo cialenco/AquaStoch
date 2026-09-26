@@ -5,13 +5,15 @@ centers:
     url: https://www.ppic.org/water/ 
     description: Connects nonpartisan, objective research to real-world water management debates, with the goal of putting California water policy on a sustainable and constructive path. 
     
+  - title: CUAHSI
+    url: https://www.cuahsi.org/
+    description: Hydrologic data sharing, HydroShare repository, and water science training
 
 datasets:
 
   - title: The United States Geological Survey (USGS) 
     url: https://waterdata.usgs.gov
-    description: Surface and groundwater data for the US
-    divider: true
+    description: Surface and groundwater data for the US    
 
 
   - title: Arizona Department of Water Resources
@@ -31,6 +33,10 @@ datasets:
     url: https://isws.illinois.edu/research/water-resource-systems/groundwater-monitoring-networks/
     description: Groundwater data for Illinois
 
+  - title: Kansas Geological Survey
+    url: https://kgs.ku.edu/data-and-maps
+    description: Kansas well records, water rights, and water level databases
+
   - title: Nebraska Department of Water, Energy, and Environment; Groundwater Management and Protection Division
     url: https://dnr.nebraska.gov/groundwater
     description: Groundwater data for Nebraska
@@ -43,6 +49,10 @@ datasets:
     url: https://snr.unl.edu/csd/map/
     description: Interactive Data Map with layers; AEM flight lines, aquifer outlines, groundwater levels, groundwater level changes, test hole data, registered wells and basic geologic maps.
 
+  - title: Nevada Division of Water Resources
+    url: https://water.nv.gov/data
+    description: Nevada well logs, water levels, and basin pumpage inventories
+
   - title: Texas Water Development Board; Groundwater Data
     url: https://www.twdb.texas.gov/groundwater/data/index.asp
     description: Groundwater data for Texas
@@ -51,9 +61,24 @@ datasets:
     url: https://txwater.beg.utexas.edu/straws/aquifer/Edwards-Trinity%20Plateau
     description: Interactive map of aquifers in Texas
 
+  - title: Groundwater Accounting Platform
+    url: https://www.groundwateraccounting.org/
+    description: Near-real-time parcel-level water budgeting for growers and groundwater agencies
+
 
 
 in_press:
+  - title: "California adopts new limits to rein in dairy manure pollution and its 'outsized' groundwater impacts"
+    journal: Inside Climate News
+    year: 2026
+    date: 2026-09-18
+    url: https://insideclimatenews.org/news/18092026/california-dairy-manure-groundwater-regulation/
+
+  - title: "California is finally addressing groundwater overdraft. How is it going?"
+    journal: Public Policy Institute of California
+    year: 2026
+    date: 2026-09-14
+    url: https://www.ppic.org/blog/california-is-finally-addressing-groundwater-overdraft-how-is-it-going/
   
   - title: "Aurora Water set to buy up more historic farm water in Lower Arkansas Valley"
     journal: The Colorado Sun
@@ -195,3 +220,11 @@ in_press:
     date: 2026-01-13
     url: https://www.latimes.com/environment/story/2026-01-13/arizona-governor-water-crackdown
   
+other_resources:
+  - title: "Groundwater Sustainability Plans"
+    url: https://sgma.water.ca.gov/portal/gsp
+    description: California Department of Water Resources portal for Groundwater Sustainability Plans (GSPs) and related information.
+
+  - title: Western Water Market
+    url: https://westernwatermarket.com/
+    description: Commercial listings of water rights for sale or lease, US West

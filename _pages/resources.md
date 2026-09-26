@@ -9,6 +9,7 @@ display_categories:
   - centers
   - datasets
   - in_press
+  - other_resources
 ---
 
 <div class="projects">
