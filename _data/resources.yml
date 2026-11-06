@@ -69,6 +69,24 @@ datasets:
 
 in_press:
 
+  - title: "Scientists tracked US freshwater for decades — one finding raised alarm"
+    journal: Newsweek
+    year: 2026
+    date: 2026-10-23
+    url: https://www.newsweek.com/nasa-satellite-data-scientists-warning-freshwater-crisis-us-12599699
+  
+  - title: "Crucial San Luis Valley aquifer drains to record low as water court ponders competing solutions"
+    journal: The Colorado Sun
+    year: 2026
+    date: 2026-10-21
+    url: https://coloradosun.com/2026/10/21/san-luis-valley-aquifer-record-low/
+  
+  - title: "Researchers advance groundwater mapping with remote sensing tools"
+    journal: Water Conditioning & Purification
+    year: 2026
+    date: 2026-10-21
+    url: https://wcponline.com/2026/10/21/researchers-advance-groundwater-mapping-with-remote-sensing-tools/
+
   - title: "Crucial San Luis Valley aquifer drains to record low as water court ponders competing solutions"
     journal: The Colorado Sun
     year: 2026
